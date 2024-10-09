@@ -1,0 +1,9 @@
+train: D:\suxici\DATA\prod_line\paper-data\yolov5\trainval.txt
+val: D:\suxici\DATA\prod_line\paper-data\yolov5\test.txt
+
+# number of classes
+nc: 1
+
+# class names
+names:
+    0 : dingweixiao
